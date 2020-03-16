@@ -18,7 +18,7 @@ The architecture of our proposed model is as follows
 
 * Clone this repo
 ```
-git clone https://github.com/ccd-ss/ccd
+git clone https://github.com/NUST-Machine-Intelligence-Laboratory/ccd.git
 
 ```
 ## Dataset
@@ -78,7 +78,7 @@ If you find this useful in your research, please consider citing:
 
     @inproceedings{chen2020classification,
 	title={Classification Constrained Discriminator for Domain Adaptive Semantic Segmentation},
-	author={Tao Chen, Jian Zhang, Guo-Sen Xie, Yazhou Yao, Xiaoshui Huang,  Zhenmin Tang},
+	author={Tao Chen, Jian Zhang, Guo-Sen Xie, Yazhou Yao, Xiaoshui Huang, Zhenmin Tang},
 	booktitle={IEEE International Conference on Multimedia and Expo (ICME)},
 	year={2020}
 	}
